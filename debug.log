@@ -1,0 +1,17 @@
+[0113/141112:INFO:CONSOLE(0)] "Not allowed to load local resource: file:///C:/Program%20Files%20(x86)/Adobe/Adobe%20Dreamweaver%20CC/Configuration/Third%20Party%20Source%20Code/jquery-mobile/jquery-1.6.4.min.js", source: http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/Meltdown%20Project.html?mode=internal (0)
+[0113/141112:INFO:CONSOLE(0)] "Not allowed to load local resource: file:///C:/Program%20Files%20(x86)/Adobe/Adobe%20Dreamweaver%20CC/Configuration/Third%20Party%20Source%20Code/jquery-mobile/jquery.mobile-1.0.min.js", source: http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/Meltdown%20Project.html?mode=internal (0)
+[0113/141113:INFO:CONSOLE(127)] "Uncaught TypeError: Object [object Object] has no method 'accordion'", source: http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/Meltdown%20Project.html?mode=internal (127)
+[0113/141114:INFO:CONSOLE(0)] "TypeError: Cannot call method 'css' of undefined
+    at Object.EdgeDOM.zoomStage (http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/edge_includes/edge.authoring.3.0.0.min.js:70:230)
+    at about:blank:0:48
+    at Object.helium.callbackTunnel (v8/app:1:588)
+    at window.runtimeReady (about:blank:0:51)
+    at about:blank:0:44", source: about:blank (0)
+[0113/144053:INFO:CONSOLE(0)] "Not allowed to load local resource: file:///C:/Program%20Files%20(x86)/Adobe/Adobe%20Dreamweaver%20CC/Configuration/Third%20Party%20Source%20Code/jquery-mobile/jquery-1.6.4.min.js", source: http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/Meltdown%20Project.html?mode=internal (0)
+[0113/144053:INFO:CONSOLE(0)] "Not allowed to load local resource: file:///C:/Program%20Files%20(x86)/Adobe/Adobe%20Dreamweaver%20CC/Configuration/Third%20Party%20Source%20Code/jquery-mobile/jquery.mobile-1.0.min.js", source: http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/Meltdown%20Project.html?mode=internal (0)
+[0113/144055:INFO:CONSOLE(0)] "TypeError: Cannot call method 'css' of undefined
+    at Object.EdgeDOM.zoomStage (http://localhost:54321/_DRIVE_C_EVIRD_/Jessica/Dreamweaver/Meltdown%20Project/edge_includes/edge.authoring.3.0.0.min.js:70:230)
+    at about:blank:0:48
+    at Object.helium.callbackTunnel (v8/app:1:588)
+    at window.runtimeReady (about:blank:0:51)
+    at about:blank:0:44", source: about:blank (0)
