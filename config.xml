@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<widget version="1.0.0" versionCode="10" id="com.porteradvertising.RichmondMeltdown" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
+
+<!-- versionCode is optional and Android only -->
+
+
+<name>RichmondMeltdown</name>
+
+<description> Official app of the Richmond Meltdown Ice Festival. </description>
+
+<author email="info@porteradvertising.com" href="https://porteradvertising.com"> Jessica Clark </author>
+
+</widget>
