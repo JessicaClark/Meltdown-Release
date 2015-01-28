@@ -5,7 +5,7 @@
  .ui-icon-myicon:after {
     background-image: url("images/icons-png/home-black.png");
 
-    background-size: 14px 14px;
+    background-size: 30px 30px;
     margin: -2px !important;
     margin-left:-15px!important;
 } 
